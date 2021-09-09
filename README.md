@@ -44,3 +44,12 @@ Niagara Falls so **impressive** is the amount of water flowing over. Most of the
 | Chai | Tea Time | 150 |
 | Chicken Burger | KFC | 450 |
 
+---
+### Quotes about Life
+
+>“You only live once, but if you do it right, once is enough.” - *Mae West*
+>
+> “Many of life’s failures are people who did not realize how close they were to success when they gave up.” - *Thomas A. Edison*
+
+
+
