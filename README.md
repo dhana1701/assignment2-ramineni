@@ -17,5 +17,21 @@ Niagara Falls so **impressive** is the amount of water flowing over. Most of the
    3. New York to Buffalo
 3. Take a ride from buffalo to Niagara Falls
 
+* Cave of the Winds 
+* Adventure Theater
+* Maid of the Mist (boat ride to Horseshoe Falls)
+  * Grace
+  * Freedom
+  * Seas the Day
+  * Therapy
+* Trolley
+* Aquarium
+  * Fishes
+  * California sea-lions
+  * sea-horses
+  * harbor seals
+  * freshwater turtles
+* Discovery Center & Hiking Trails
+
  
 
