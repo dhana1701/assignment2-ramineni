@@ -35,3 +35,12 @@ Niagara Falls so **impressive** is the amount of water flowing over. Most of the
 
  [AboutMe](https://github.com/dhana1701/assignment2-ramineni/blob/main/AboutMe.md)
 
+---
+
+| Food/Drinks | Location | Price (Inr) |
+| ---| ---| ---: |
+| Chicken Biryani | Hyderabad | 300 |
+| Sandwitch | Subway | 250 |
+| Chai | Tea Time | 150 |
+| Chicken Burger | KFC | 450 |
+
